@@ -2,7 +2,9 @@
 
 -----What it does: This project allows users to park a car, remove a car, search for a car, and display all parked cars. It also calculates parking charges based on time and car type (5 or 7 seater).
 
------**How to run: javac car_parking_system.java*  java car_parking_system.main**
+-----**How to run:**
+**javac car_parking_system.java***
+**java car_parking_system.main**
 
 output:----
 
